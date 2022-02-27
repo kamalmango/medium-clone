@@ -30,6 +30,8 @@ export default function Home() {
           alt=""
         />
       </div>
+
+      {/* Posts */}
     </div>
   )
 }
