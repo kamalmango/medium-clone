@@ -9,7 +9,6 @@ interface Props {
 }
 
 export default function Home({ posts }: Props) {
-  console.log(posts)
   return (
     <div className="mx-auto max-w-7xl">
       <Head>
